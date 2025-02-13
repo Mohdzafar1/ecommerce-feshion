@@ -1,0 +1,16 @@
+.tracking-wider {
+    letter-spacing: 0.1em;
+  }
+  
+  .min-vh-75 {
+    min-height: 75vh;
+  }
+  
+  @media (max-width: 991.98px) {
+    .min-vh-75 {
+      min-height: auto;
+      padding: 4rem 0;
+    }
+  }
+  
+  
